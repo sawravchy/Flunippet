@@ -81,6 +81,7 @@ Flunippets is a collection of common flutter widgets snippets and shortcuts for 
 | `dconstvar`| "Dart 'const' variable declaration snippet
 | `dpubarr`  | Dart public arrow function snippet
 | `dprarr`   | Dart private arrow function snippet
+
 <br>
 
 ## Package Import Snippets
@@ -95,6 +96,7 @@ Flunippets is a collection of common flutter widgets snippets and shortcuts for 
 | `impGfont` | Import Google Font package
 | `impProv`  | Import Provider package
 | `impFauth` | Import Firebase auth package
+
 <br>
 
 
