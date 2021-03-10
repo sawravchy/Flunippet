@@ -54,7 +54,6 @@ Flunippets is a collection of common flutter widgets snippets and shortcuts for 
 | `finitlife`| Flutter initState lifecycle method
 | `fstream`  | Flutter StreamBuilder widget snippet
 
-<br>
 
 ## Dart Snippets
 
@@ -82,7 +81,7 @@ Flunippets is a collection of common flutter widgets snippets and shortcuts for 
 | `dpubarr`  | Dart public arrow function snippet
 | `dprarr`   | Dart private arrow function snippet
 
-<br>
+
 
 ## Package Import Snippets
 
@@ -97,7 +96,7 @@ Flunippets is a collection of common flutter widgets snippets and shortcuts for 
 | `impProv`  | Import Provider package
 | `impFauth` | Import Firebase auth package
 
-<br>
+
 
 
 ## Release Notes
