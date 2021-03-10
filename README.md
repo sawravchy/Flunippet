@@ -102,4 +102,4 @@ Flunippets is a collection of common flutter widgets snippets and shortcuts for 
 ## Release Notes
 
 ### 1.0.0
-Initial release of Awesome Flutter Snippets 
+Initial release of Flunippets . 
