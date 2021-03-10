@@ -4,7 +4,7 @@
   "description": "Flunippets is a collection of common flutter widgets snippets and shortcuts for flutter development",
   "version": "1.0.0",
   "license": "MIT",
-  "publisher": "Sawrav Chowdhury",
+  "publisher": "SawravChy",
   "engines": {
     "vscode": "^1.54.1"
   },
