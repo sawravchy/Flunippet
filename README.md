@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-Flunippets is a collection of common flutter widgets snippets and shortcuts for flutter development.
+Flunippet is a collection of common flutter widgets snippets and shortcuts for flutter development.
 </p>
 <br>
 
@@ -106,4 +106,4 @@ Flunippets is a collection of common flutter widgets snippets and shortcuts for 
 ## Release Notes
 
 ### 1.0.0
-Initial release of Flunippets . 
+Initial release of Flunippet. 
