@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/sawravchy/Flunippet">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sawravchy/Flunippet"></a>
-  <a href="https://github.com/sawravchy/Flunippet/commits/dev">
+  <a href="https://github.com/sawravchy/Flunippet/commits/">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sawravchy/Flunippet.svg?style=flat-square"></a>
   <a href="https://github.com/sawravchy/Flunippet/issues">
     <img alt = "GitHub closed issues" src="https://img.shields.io/github/issues-closed/sawravchy/Flunippet.svg?style=flat-square"></a>
