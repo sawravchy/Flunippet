@@ -27,5 +27,5 @@ jobs:
       - name: import labels
         if: github.ref == 'refs/heads/main'
         run: |
-          npx ghlbl -o eddiejaoude -r stargate -t ${{ secrets.GITHUB_TOKEN }} -d
-          npx ghlbl -o eddiejaoude -r stargate -t ${{ secrets.GITHUB_TOKEN }} -i docs/labels.json
+          npx ghlbl -o sawravchy -r flunippet -t ${{ secrets.GITHUB_TOKEN }} -d
+          npx ghlbl -o sawravchy -r flunippet -t ${{ secrets.GITHUB_TOKEN }} -i docs/labels.json
