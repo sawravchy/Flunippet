@@ -1,4 +1,3 @@
-  
 name: Import labels
 on:
   push:
@@ -28,5 +27,5 @@ jobs:
       - name: import labels
         if: github.ref == 'refs/heads/main'
         run: |
-          npx ghlbl -o sawravchy -r flunippet -t ${{ secrets.GITHUB_TOKEN }} -d
-          npx ghlbl -o sawravchy -r flunippet -t ${{ secrets.GITHUB_TOKEN }} -i docs/labels.json
+          npx ghlbl -o sawravchy -r Flunippet -t ${{ secrets.GITHUB_TOKEN }} -d
+          npx ghlbl -o sawravchy -r Flunippet -t ${{ secrets.GITHUB_TOKEN }} -i docs/labels.json
