@@ -11,7 +11,7 @@
     <img alt = "GitHub closed issues" src="https://img.shields.io/github/issues-closed/sawravchy/Flunippet.svg?style=flat-square"></a> -->
   <a href="https://github.com/sawravchy/Flunippet/issues">
     <img alt = "GitHub issues" src="https://img.shields.io/github/issues/sawravchy/Flunippet.svg?style=for-the-badge"></a>
-  <a href="LICENSE">
+  <a href="https://github.com/sawravchy/Flunippet/blob/main/LICENSE">
     <img alt = "License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"></a>
 </p>
 
