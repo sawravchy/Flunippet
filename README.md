@@ -14,6 +14,9 @@
   <a href="https://www.codefactor.io/repository/github/sawravchy/flunippet">
     <img alt = "License: MIT" src="https://www.codefactor.io/repository/github/sawravchy/flunippet/badge?style=for-the-badge"></a>
 </p>
+<a href="https://github.com/zricethezav/gitleaks-action">
+    <img alt="gitleaks badge" src="https://img.shields.io/badge/protected%20by-gitleaks-blue?style=for-the-badge">
+</a>
 
 <p align="center">
   Flunippet is a collection of common flutter widgets snippets and shortcuts for flutter development.
