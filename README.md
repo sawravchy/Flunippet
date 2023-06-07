@@ -4,19 +4,25 @@
 
 <p align="center">
   <a href="https://github.com/sawravchy/Flunippet">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sawravchy/Flunippet.svg?style=for-the-badge"></a>
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sawravchy/Flunippet.svg?style=for-the-badge">
+  </a>
   <a href="https://github.com/sawravchy/Flunippet/commits/">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sawravchy/Flunippet.svg?style=for-the-badge"></a>
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sawravchy/Flunippet.svg?style=for-the-badge">
+  </a>
   <a href="https://github.com/sawravchy/Flunippet/issues">
-    <img alt = "GitHub issues" src="https://img.shields.io/github/issues/sawravchy/Flunippet.svg?style=for-the-badge"></a>
+    <img alt = "GitHub issues" src="https://img.shields.io/github/issues/sawravchy/Flunippet.svg?style=for-the-badge">
+  </a>
   <a href="https://github.com/sawravchy/Flunippet/blob/main/LICENSE">
-    <img alt = "License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"></a>
+    <img alt = "License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge">
+  </a>
   <a href="https://www.codefactor.io/repository/github/sawravchy/flunippet">
-    <img alt = "License: MIT" src="https://www.codefactor.io/repository/github/sawravchy/flunippet/badge?style=for-the-badge"></a>
-</p>
-<a href="https://github.com/zricethezav/gitleaks-action">
+    <img alt = "License: MIT" src="https://www.codefactor.io/repository/github/sawravchy/flunippet/badge?style=for-the-badge">
+  </a>
+  <a href="https://github.com/zricethezav/gitleaks-action">
     <img alt="gitleaks badge" src="https://img.shields.io/badge/protected%20by-gitleaks-blue?style=for-the-badge">
-</a>
+  </a>
+</p>
+
 
 <p align="center">
   Flunippet is a collection of common flutter widgets snippets and shortcuts for flutter development.
