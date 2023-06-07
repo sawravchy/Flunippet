@@ -19,10 +19,10 @@
     <img alt = "License: MIT" src="https://www.codefactor.io/repository/github/sawravchy/flunippet/badge?style=for-the-badge">
   </a>
   <a href="https://github.com/zricethezav/gitleaks-action">
-    <img alt="gitleaks badge" src="https://img.shields.io/badge/protected%20by-gitleaks-blue?style=for-the-badge">
+    <img alt="gitleaks badge" src="https://img.shields.io/github/actions/workflow/status/sawravchy/flunippet/gitleaks.yml?label=Gitleak%20Build&style=for-the-badge">
+    
   </a>
 </p>
-
 
 <p align="center">
   Flunippet is a collection of common flutter widgets snippets and shortcuts for flutter development.
